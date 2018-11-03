@@ -1,0 +1,27 @@
+.navbar {
+  background-color: #e9541f;
+}
+
+#submit-link,
+#login-link {
+  background: #e9541f;
+  color: white;
+}
+
+.form-row {
+  margin: 1em;
+}
+
+#container-submit,
+#container-create-user,
+#container-login-user,
+#container-user-profile,
+.li-hidden-favorites,
+.li-hidden-domain {
+  display: none;
+}
+
+small:hover,
+i:hover {
+  cursor: pointer;
+}
